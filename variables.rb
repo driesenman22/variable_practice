@@ -7,3 +7,6 @@ favorite_number = 16
 pi = 3.14
 half_of_mortgage = 1436.26
 avg_human_temp = 98.6
+sky_is_blue = true
+in_colorado = true
+car_is_yellow = false
