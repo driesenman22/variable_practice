@@ -1,9 +1,9 @@
 name = "Dylan"
-name # "Bob"
+name = "Bob"
 last_name = "Riesenman"
-last_name # "Jones"
+last_name = "Jones"
 dog_name = "Duke"
-dog_name # "Max"
+dog_name = "Max"
 
 
 age = 29
